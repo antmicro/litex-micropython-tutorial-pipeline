@@ -1,0 +1,6 @@
+artifacts
+image.sif
+__pycache__
+litex-buildenv
+litex-buildenv.wiki
+MicroPython.md
