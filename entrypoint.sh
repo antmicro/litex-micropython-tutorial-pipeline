@@ -13,6 +13,7 @@ else
 fi
 cp litex-buildenv.wiki/MicroPython.md .
 
+python3 -m pip install --user dataclasses
 python3 -m pip install --user git+git://github.com/antmicro/tuttest
 
 if [ -d litex-buildenv ]; then
